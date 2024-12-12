@@ -9,26 +9,26 @@ This project was developed for a Relational Database Systems course. Throughout 
 ### Main Page
 The main page navigates the user to pages where different SQL statements can be executed with the press of a button. There are predefined SQL statements, embedded into the code for all pages, except Custom SQL.
 
-1. Creating and Dropping tables
-![GIF for Creating and Dropping tables](gifs/create_drop_tables.gif)
+1. Creating and Dropping tables<br>
+![GIF for Creating and Dropping tables](gifs/create_drop_tables.gif)<br>
 
-2. Populating Tables (Pressing button)
-![GIF for Populating Tables (Pressing button)](gifs/pop_tables1.gif)
-(After successful population) - Takes 10 seconds with many records
+2. Populating Tables (Pressing button)<br>
+![GIF for Populating Tables (Pressing button)](gifs/pop_tables1.gif)<br>
+(After successful population) - Takes 10 seconds with many records<br>
 ![GIF Populating Tables (After Pressing button)](gifs/pop_tables2_view.gif)
 ### Query Page
-The query page contains pre-defined SQL queries that are embedded into the code. Here, users can view the league table, player information, and other important statistics.
+The query page contains pre-defined SQL queries that are embedded into the code. Here, users can view the league table, player information, and other important statistics.<br>
 
-![GIF for Query Page](gifs/query_tables.gif)
+![GIF for Query Page](gifs/query_tables.gif)<br>
 
 ### Custom SQL
 The Custom SQL page allows users to enter their own SQL statements to modify and query the database.
 
-1. Updating Database
-![GIF to Update Database with Custom SQL](gifs/custom_insert_tables.gif)
+1. Updating Database<br>
+![GIF to Update Database with Custom SQL](gifs/custom_insert_tables.gif)<br>
 
-2. Querying Database (Custom Query)
-![GIF to Query Database with Custom SQL](gifs/custom_query_tables.gif)
+2. Querying Database (Custom Query)<br>
+![GIF to Query Database with Custom SQL](gifs/custom_query_tables.gif)<br>
 ## Usage
 Here are the steps to download the program onto your local machine. There are some considerations that must be taken.
 
