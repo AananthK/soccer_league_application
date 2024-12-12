@@ -10,25 +10,25 @@ This project was developed for a Relational Database Systems course. Throughout 
 The main page navigates the user to pages where different SQL statements can be executed with the press of a button. There are predefined SQL statements, embedded into the code for all pages, except Custom SQL.
 
 1. Creating and Dropping tables
-![alt text](create_drop_tables.gif)
+![GIF for Creating and Dropping tables](gifs/create_drop_tables.gif)
 
 2. Populating Tables (Pressing button)
-![alt text](pop_tables1.gif)
-(After successful population)
-![alt text](pop_tables2_view.gif)
+![GIF for Populating Tables (Pressing button)](gifs/pop_tables1.gif)
+(After successful population) - Takes 10 seconds with many records
+![GIF Populating Tables (After Pressing button)](gifs/pop_tables2_view.gif)
 ### Query Page
 The query page contains pre-defined SQL queries that are embedded into the code. Here, users can view the league table, player information, and other important statistics.
 
-![alt text](query_tables.gif)
+![GIF for Query Page](gifs/query_tables.gif)
 
 ### Custom SQL
 The Custom SQL page allows users to enter their own SQL statements to modify and query the database.
 
 1. Updating Database
-![alt text](custom_insert_tables.gif)
+![GIF to Update Database with Custom SQL](gifs/custom_insert_tables.gif)
 
 2. Querying Database (Custom Query)
-![alt text](custom_query_tables.gif)
+![GIF to Query Database with Custom SQL](gifs/custom_query_tables.gif)
 ## Usage
 Here are the steps to download the program onto your local machine. There are some considerations that must be taken.
 
